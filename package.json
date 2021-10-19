@@ -1,0 +1,17 @@
+{
+  "name": "festivibe",
+  "version": "1.0.0",
+  "description": "festivibe is a jQuery plugin to create effects such as lights, fireworks on a webpage. This is really useful to enhance your website for festival decorations. Be it Diwali, halloween, or to celebrate any other occasion",
+  "main": "./src/jquery.festivibe.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "jquery-plugin",
+    "ecosystem:jquery",
+    "html5-on-page-animation",
+    "festival-vibe-addon"
+  ],
+  "author": "Sourav Mukhopadhyay (sourav.mukhopadhyay@gmail.com)",
+  "license": "MIT"
+}
